@@ -28,4 +28,4 @@ Python QR-Code generator
 - the program will generate the QR-Code in root folder of application
 
 # LICENSE #
-- this program is free to use and free to modify wihtout restrictions
+- this program is free to use and is allowed to be modified without restrictions
